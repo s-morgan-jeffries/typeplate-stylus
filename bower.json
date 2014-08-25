@@ -6,6 +6,7 @@
     "Morgan <s.morgan.jeffries@gmail.com>"
   ],
   "description": "Port of Typeplate to Stylus",
+  "main": "index.styl",
   "license": "MIT",
   "private": true,
   "ignore": [
